@@ -1,5 +1,4 @@
-# Workspace
-Reference Links
+# Reference Links
  
 Terminal Links:
  - Bash Profile Setup & Customizing: https://www.youtube.com/watch?v=_3om0Kt43wQ
