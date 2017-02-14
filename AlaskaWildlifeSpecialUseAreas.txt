@@ -1,6 +1,6 @@
 {
   "tilejson": "2.1.0",
-  "name": "Alaska Wildlife Special Use Areas",
+  "name": "Alaska Test",
   "description": "Layer Description",
   "version": "1.0.0",
   "attribution": "attribution",
